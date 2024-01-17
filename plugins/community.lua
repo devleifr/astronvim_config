@@ -37,6 +37,7 @@ return {
   -- { import = "astrocommunity.test.neotest" },
   -- Rainbow parens
   { import = "astrocommunity.editing-support.rainbow-delimiters-nvim", enabled = false },
+  { import = "astrocommunity.editing-support.ultimate-autopair-nvim"},
   { import = "astrocommunity.editing-support.nvim-regexplainer" },
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
   {
